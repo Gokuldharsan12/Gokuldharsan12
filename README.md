@@ -37,4 +37,4 @@
 ### 📫 Contact Me
 Feel free to reach out through [email](mailto:sgokuldharsan@gmail.com).
 
-![Gokuldharsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokuldharsan12&show_icons=true)
+[![Gokuldharsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokuldharsan12&bg_color=1b181a&color=fbfaff&line=29c81e&point=b83232&area=true&hide_border=true)](https://github.com/Gokuldharsan12/github-readme-activity-graph)
