@@ -19,23 +19,19 @@
 - **Problem-Solving**: GeeksforGeeks, Hackerrank coding challenges
 
 ### 🖥️ Programming Languages
-
-![Python](<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>)
-![HTML5](<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>)
-![CSS3](<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>)
-
+![Python](https://img.icons8.com/3d-fluency/94/python.png)
+![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/css3.png)
 
 ### 🛠️ Tools
-- ![Visual Studio Code](<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>)
-- ![Maven](<img width="50" height="50" src="https://img.icons8.com/ios/50/maven-ios.png" alt="maven-ios"/>)
-- ![Git](<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>)
-- ![Excel](<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>)
-
+![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
+![Maven](https://img.icons8.com/ios/50/maven-ios.png)
+![Git](https://img.icons8.com/color/48/git.png)
+![Excel](https://img.icons8.com/fluency/48/microsoft-excel-2019.png)
 
 ### 💼 Professional Links
-- [LinkedIn](https://www.linkedin.com/in/gokul0417) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [Twitter](https://twitter.com/your-twitter-handle) ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul0417)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
 ### 📫 Contact Me
 Feel free to reach out through [email](mailto:sgokuldharsan@gmail.com).
