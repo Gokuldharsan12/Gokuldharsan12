@@ -19,7 +19,7 @@
 - **Problem-Solving**: GeeksforGeeks, Hackerrank coding challenges
 
 ### 🖥️ Programming Languages
-![Python](https://img.icons8.com/3d-fluency/94/python.png)
+![Python](<img src="https://img.icons8.com/3d-fluency/94/python.png" alt="python" width="50"/>)
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 
