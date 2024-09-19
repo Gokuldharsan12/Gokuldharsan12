@@ -27,6 +27,7 @@
 ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Maven](https://img.icons8.com/ios/50/maven-ios.png)
 ![Git](https://img.icons8.com/color/48/git.png)
+![figma](https://img.icons8.com/color/48/figma.png)
 ![Excel](https://img.icons8.com/fluency/48/microsoft-excel-2019.png)
 
 ### 💼 Professional Links
