@@ -14,22 +14,27 @@
 
 ### ⚡ Skills
 - **Cloud Computing**: AWS(learning)*
-- **Programming Languages**: Python,HTML, CSS
 - **Version Control**: Git, GitHub
 - **Database Management**: MongoDB(learning)*
 - **Problem-Solving**: GeeksforGeeks, Hackerrank coding challenges
 
+### 🖥️ Programming Languages
+
+![Python](<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>)
+![HTML5](<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>)
+![CSS3](<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>)
+
+
 ### 🛠️ Tools
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- ![Visual Studio Code](<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>)
+- ![Maven](<img width="50" height="50" src="https://img.icons8.com/ios/50/maven-ios.png" alt="maven-ios"/>)
+- ![Git](<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>)
+- ![Excel](<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>)
 
 
 ### 💼 Professional Links
-- [LinkedIn](https://www.linkedin.com/in/gokul0417) ![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-- [Twitter](https://twitter.com/your-twitter-handle) ![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/gokul0417) ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- [Twitter](https://twitter.com/your-twitter-handle) ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 
 ### 📫 Contact Me
