@@ -23,6 +23,9 @@
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 
+### social media
+![facebook](<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/facebook-new.png" alt="facebook-new"/>)
+
 ### 🛠️ Tools
 ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Maven](https://img.icons8.com/ios/50/maven-ios.png)
