@@ -3,20 +3,22 @@
 # Welcome to my GitHub profile! 👋
 
 ### 🚀 About Me
-- 🌱 I’m a **DevOps enthusiast** with a strong interest in **Cloud Computing**.
+- 🌱 I’m a **DevOps enthusiast** with a strong interest in **Cloud Computing** and **Cloud Architecture**.
 - 💻 Pursuing a Bachelor of Technology in **Information Technology** at Dhirajlal Gandhi College of Technology.
-- 🔭 Working on [Beach Aura](https://github.com/Gokuldharsan12/Beach-Aura) and continuously expanding my skills in **DevOps** and **Cloud Architecture**.
+- 🧠 Continuously exploring tools like **Jenkins**, **Docker**, **GitHub Actions**, and more.
+- 🔭 Currently working on:
+
+  - **[SpendTrack](https://github.com/Gokuldharsan12/SpendTrack)** – A simple Tkinter-based GUI spend tracker for personal finance.
 
 ### 💻 Projects
-- **[Beach Aura](https://github.com/Gokuldharsan12/Beach-Aura)**: A mobile app providing real-time beach suitability information using oceanic and meteorological APIs.
-- **Website Traffic Analysis**: Analyzed visitor behavior using web analytics tools, resulting in improved content strategy, increased user engagement, and a boost in page views.
-- **Vid Notes Hub**: A platform for storing and organizing video notes, improving study efficiency and knowledge retention. Demonstrated full-stack development and user experience design skills.
+- **[SpendTrack](https://github.com/Gokuldharsan12/SpendTrack)**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
 
 ### ⚡ Skills
-- **Cloud Computing**: AWS(learning)*
+- **Cloud Computing**: AWS (Learning)
+- **DevOps Tools**: Jenkins, Docker, GitHub Actions (Learning)
 - **Version Control**: Git, GitHub
-- **Database Management**: MongoDB(learning)*
-- **Problem-Solving**: GeeksforGeeks, Hackerrank coding challenges
+- **Database Management**: PostgreSQL (Preferred), MongoDB (Learning)
+- **Problem-Solving**: GeeksforGeeks, HackerRank coding challenges
 
 ### 🖥️ Programming Languages
 ![Python](https://img.icons8.com/color/48/python.png)
