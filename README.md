@@ -8,10 +8,10 @@
 - 🧠 Continuously exploring tools like **Jenkins**, **Docker**, **GitHub Actions**, and more.
 - 🔭 Currently working on:
 
-  - **[SpendTrack](https://github.com/Gokuldharsan12/SpendTrack)** – A simple Tkinter-based GUI spend tracker for personal finance.
+  - **[SpendTrack](https://github.com/Gokuldharsan12/SpendTracker.git)** – A simple Tkinter-based GUI spend tracker for personal finance.
 
 ### 💻 Projects
-- **[SpendTrack](https://github.com/Gokuldharsan12/SpendTrack)**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
+- **[SpendTrack]((https://github.com/Gokuldharsan12/SpendTracker.git))**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
 
 ### ⚡ Skills
 - **Cloud Computing**: AWS (Learning)
