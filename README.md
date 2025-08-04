@@ -6,12 +6,9 @@
 - 🌱 I’m a **DevOps enthusiast** with a strong interest in **Cloud Computing** and **Cloud Architecture**.
 - 💻 Pursuing a Bachelor of Technology in **Information Technology** at Dhirajlal Gandhi College of Technology.
 - 🧠 Continuously exploring tools like **Jenkins**, **Docker**, **GitHub Actions**, and more.
-- 🔭 Currently working on:
-
-  - **[SpendTrack](https://github.com/Gokuldharsan12/SpendTracker.git)** – A simple Tkinter-based GUI spend tracker for personal finance.
-
+  
 ### 💻 Projects
-- **[SpendTracker]((https://github.com/Gokuldharsan12/SpendTracker.git))**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
+- **[SpendTracker](https://github.com/Gokuldharsan12/SpendTracker.git)**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
 - **[Password Forge](https://github.com/Gokuldharsan12/Password-Forge.git)**: A GUI and CLI-based password generator built with Python and Tkinter, featuring customizable password strength, copy-to-clipboard, and visibility toggle for enhanced usability.
 
 ### ⚡ Skills
