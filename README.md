@@ -11,7 +11,8 @@
   - **[SpendTrack](https://github.com/Gokuldharsan12/SpendTracker.git)** – A simple Tkinter-based GUI spend tracker for personal finance.
 
 ### 💻 Projects
-- **[SpendTrack]((https://github.com/Gokuldharsan12/SpendTracker.git))**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
+- **[SpendTracker]((https://github.com/Gokuldharsan12/SpendTracker.git))**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
+- **[Password Forge](https://github.com/Gokuldharsan12/Password-Forge.git)**: A GUI and CLI-based password generator built with Python and Tkinter, featuring customizable password strength, copy-to-clipboard, and visibility toggle for enhanced usability.
 
 ### ⚡ Skills
 - **Cloud Computing**: AWS (Learning)
