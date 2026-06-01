@@ -1,33 +1,35 @@
-# Hello, I am Gokuldharsan👋
+# Hello, I am Gokuldharsan S👋
 
 # Welcome to my GitHub profile! 👋
 
 ### 🚀 About Me
-- 🌱 I’m a **DevOps enthusiast** with a strong interest in **Cloud Computing** and **Cloud Architecture**.
-- 💻 Pursuing a Bachelor of Technology in **Information Technology** at Dhirajlal Gandhi College of Technology.
-- 🧠 Continuously exploring tools like **Jenkins**, **Docker**, **GitHub Actions**, and more.
+- ☕ I’m an aspiring **Java Full Stack Developer** with a strong foundation in **Core Java**, **OOPs**, and **SQL**.
+- 🎓 Graduated with a **B.Tech in Information Technology** from Dhirajlal Gandhi College of Technology (CGPA: **8.11/10**).
+- 🌱 Currently learning **Spring Boot**, **JavaScript**, and advanced **Oracle SQL** concepts.
+- 🚀 Passionate about building scalable web applications and solving real-world problems through software development.
   
 ### 💻 Projects
+- **[Civic Complaint Management System](https://github.com/Gokuldharsan12/CivicCMS17.git)**: An AI-powered web-based civic complaint management system that classifies, geo-tags, and auto-routes citizen grievances to the appropriate government departments using NLP. 
 - **[SpendTracker](https://github.com/Gokuldharsan12/SpendTracker.git)**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
 - **[Password Forge](https://github.com/Gokuldharsan12/Password-Forge.git)**: A GUI and CLI-based password generator built with Python and Tkinter, featuring customizable password strength, copy-to-clipboard, and visibility toggle for enhanced usability.
 
 ### ⚡ Skills
-- **Cloud Computing**: AWS (Learning)
-- **DevOps Tools**: Jenkins, Docker, GitHub Actions (Learning)
-- **Version Control**: Git, GitHub
-- **Database Management**: PostgreSQL (Preferred), MongoDB (Learning)
+- **Programming Languages**: Java, Oracle SQL, Bash Scripting
+- **Backend Development**: Spring Boot, REST APIs, JWT Authentication
+- **Version Control Tools**: Git, GitHub
+- **Database Management**: Oracle SQL 11g
 - **Problem-Solving**: GeeksforGeeks, HackerRank coding challenges
-
+  
 ### 🖥️ Programming Languages
-![Python](https://img.icons8.com/color/48/python.png)
+![Java](https://img.icons8.com/3d-sugary/100/java.png)
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 
 ### 🛠️ Tools
 ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
+![Eclipse](https://img.icons8.com/ios-filled/50/java-eclipse.png)
 ![Maven](https://img.icons8.com/ios/50/maven-ios.png)
 ![Git](https://img.icons8.com/color/48/git.png)
-![figma](https://img.icons8.com/color/48/figma.png)
 ![Excel](https://img.icons8.com/fluency/48/microsoft-excel-2019.png)
 
 ### 💼 Professional Links
@@ -37,4 +39,3 @@
 ### 📫 Contact Me
 Feel free to reach out through [email](mailto:sgokuldharsan@gmail.com).
 
-[![Gokuldharsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokuldharsan12&bg_color=1b181a&color=fbfaff&line=29c81e&point=b83232&area=true&hide_border=true)](https://github.com/Gokuldharsan12/github-readme-activity-graph)
