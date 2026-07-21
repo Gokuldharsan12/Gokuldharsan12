@@ -5,7 +5,7 @@
 ### 🚀 About Me
 - ☕ I’m an aspiring **Java Full Stack Developer** with a strong foundation in **Core Java**, **OOPs**, and **SQL**.
 - 🎓 Graduated with a **B.Tech in Information Technology** from Dhirajlal Gandhi College of Technology (CGPA: **8.11/10**).
-- 🌱 Currently learning **Spring Boot**, **JavaScript**, and advanced **Oracle SQL** concepts.
+- 🌱 Currently learning **Spring Boot**, **JavaScript**, **Hiberante** and  **Oracle SQL** concepts.
 - 🚀 Passionate about building scalable web applications and solving real-world problems through software development.
   
 ### 💻 Projects
