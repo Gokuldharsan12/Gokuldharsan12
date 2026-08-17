@@ -9,7 +9,8 @@
 - 🚀 Passionate about building scalable web applications and solving real-world problems through software development.
   
 ### 💻 Projects
-- **[Civic Complaint Management System](https://github.com/Gokuldharsan12/CivicCMS17.git)**: An AI-powered web-based civic complaint management system that classifies, geo-tags, and auto-routes citizen grievances to the appropriate government departments using NLP. 
+- **[Civic Complaint Management System](https://github.com/Gokuldharsan12/CivicCMS17.git)**: An AI-powered web-based civic complaint management system that classifies, geo-tags, and auto-routes citizen grievances to the appropriate government departments using NLP.
+- A Food Ordering Application built with Java, Spring Boot, PostgreSQL, HTML, CSS, and JavaScript. The application provides RESTful APIs and a responsive web interface for managing customers, restaurants, menus, orders, order items, and payments.
 - **[SpendTracker](https://github.com/Gokuldharsan12/SpendTracker.git)**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
 - **[Password Forge](https://github.com/Gokuldharsan12/Password-Forge.git)**: A GUI and CLI-based password generator built with Python and Tkinter, featuring customizable password strength, copy-to-clipboard, and visibility toggle for enhanced usability.
 
