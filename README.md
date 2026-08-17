@@ -10,13 +10,13 @@
   
 ### 💻 Projects
 - **[Civic Complaint Management System](https://github.com/Gokuldharsan12/CivicCMS17.git)**: An AI-powered web-based civic complaint management system that classifies, geo-tags, and auto-routes citizen grievances to the appropriate government departments using NLP.
-- A Food Ordering Application built with Java, Spring Boot, PostgreSQL, HTML, CSS, and JavaScript. The application provides RESTful APIs and a responsive web interface for managing customers, restaurants, menus, orders, order items, and payments.
+- **[Food Ordering Application](https://github.com/Gokuldharsan12/Food-Ordering-Application.git)**: A modern end-to-end food ordering platform that streamlines restaurant discovery, menu management, order processing, and payments through a scalable Spring Boot backend and interactive web interface.
 - **[SpendTracker](https://github.com/Gokuldharsan12/SpendTracker.git)**: A GUI-based spend tracker using Python’s Tkinter module, designed for easy personal finance monitoring.
 - **[Password Forge](https://github.com/Gokuldharsan12/Password-Forge.git)**: A GUI and CLI-based password generator built with Python and Tkinter, featuring customizable password strength, copy-to-clipboard, and visibility toggle for enhanced usability.
 
 ### ⚡ Skills
 - **Programming Languages**: Java, Oracle SQL, Bash Scripting
-- **Backend Development**: Spring Boot, REST APIs, JWT Authentication
+- **Backend Development**: Spring Boot, REST APIs, JWT Authentication 
 - **Version Control Tools**: Git, GitHub
 - **Database Management**: Oracle SQL 11g
 - **Problem-Solving**: GeeksforGeeks, HackerRank coding challenges
